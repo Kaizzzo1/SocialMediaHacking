@@ -53,7 +53,7 @@ this section explains how to install and run the tool on:<br> ubuntu, arch, void
 <h5><p align="center">Ubuntu / Debian</p></h3>
 
 ```
-git clone https://github.com/benjaminkosolov/SocialMediaHackingToolkit
+git clone https://github.com/Kaizzzo1/SocialMediaHacking
 
 cd SocialMediaHackingToolkit
 
@@ -78,9 +78,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/benjaminkosolov/SocialMediaHackingToolkit
+git clone https://github.com/Kaizzzo1/SocialMediaHacking
 
-cd SocialMediaHackingToolkit
+cd SocialMediaHacking
 
 yay install windscribe-cli
 
@@ -103,9 +103,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/benjaminkosolov/SocialMediaHackingToolkit
+git clone https://github.com/Kaizzzo1/SocialMediaHacking
 
-cd SocialMediaHackingToolkit
+cd SocialMediaHacking
 
 cd dependencies
 
@@ -128,9 +128,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/benjaminkosolov/SocialMediaHackingToolkit
+git clone https://github.com/Kaizzzo1/SocialMediaHacking
 
-cd SocialMediaHackingToolkit
+cd SocialMediaHacking
 
 cd dependencies
 
@@ -153,9 +153,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/benjaminkosolov/SocialMediaHackingToolkit
+git clone https://github.com/Kaizzzo1/SocialMediaHacking
 
-cd SocialMediaHackingToolkit
+cd SocialMediaHacking
 
 cd cmd
 
@@ -297,22 +297,3 @@ you can verify that the program works by testing it on **your profile**, open th
 | Gmail|       X    |           |           |
 | Twitter|     X      |   X        |           |
 
-</div> 
-
-<br>
-
----
-
-
-
-<br>
-
-<h3><p align="center">Issues and Suggestions</p></h3>
-
-<p align="center">
-  <img src="images/issues.gif" alt=""/>
-</p>
-
-If you have encountered an issue with SocialMediaHackingToolkit or would like to suggest an improvement, please report it in our [Issues section](https://github.com/benjaminkosolov/SocialMediaHackingToolkit/issues).<br> Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br> <b>Thank you for your contribution!</b>
-
-<br>
